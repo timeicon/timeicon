@@ -1,9 +1,5 @@
 ## Welcome to the support page of Time Icon
 
-This page is a support for the timeicon app on the AppStore.
-
-### Time Icon
-
 Time Icon is a time management app developed with minimalist design principles.Whenever and wherever you need to take out your phone, click on the button three or four times to record what you have just done.
 
 ### How to use
