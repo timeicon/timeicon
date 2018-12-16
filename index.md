@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the support page of Time Icon
 
-You can use the [editor on GitHub](https://github.com/timeicon/timeicon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is a support for the timeicon app on the AppStore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Time Icon
 
-### Markdown
+Time Icon is a time management app developed with minimalist design principles.Whenever and wherever you need to take out your phone, click on the button three or four times to record what you have just done.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to use
 
-```markdown
-Syntax highlighted code block
+I tried a lot of time managing apps, either too complicated or unreasonable. I just want to spend a few minutes a day, recording what I did in the day and how much time I spent. In the end I decided to do it myself. The core of time management is the ability to record quickly and accurately. The difference between this app and other time-managed apps is subtraction. Simplify the category of things into icons, remove unnecessary complex functions, focus on the time spent recording, and don't care about start and end time. The result is that you can record the time spent on one thing with just a few clicks. For example, I just spent 1 hour and 30 minutes reading a book. Then you can click on: (1) reading icon (2) 1h button (3) 30m button (4) Save button, it is recorded. If you want to record the title of the book and the number of pages read, just edit the Title and Detail of the record in your free time.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timeicon/timeicon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any good suggestions about this app, please send me an email to 8thsense@gmail.com
